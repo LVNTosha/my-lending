@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    text-shadow:1px 1px 8px #13d2dc;
+}
+p{
+    margin: 10px 20px;
+    font-size: 20px;
+}
