@@ -10,5 +10,11 @@ p{
 img{
     display: flex;
     justify-self: center;
-    background-color: rgb(41, 41, 118);
+}
+button{
+    font-size: larger;
+    color: aliceblue;
+    background-color: darkorchid;
+    border-color: rgb(228, 29, 145);
+    border-radius: 10px;
 }
