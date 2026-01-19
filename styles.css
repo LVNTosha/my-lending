@@ -30,3 +30,16 @@ h2{
     font-size: 40px;
     text-shadow:1px 1px 8px #f169f9;
 }
+.about{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 40px;
+}
+.img{
+    width: 200px;
+}
+li{
+    font-size: larger;
+}
